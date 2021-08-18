@@ -1,5 +1,5 @@
-# 🥞 Treelabs UI
+# labs UI
 
 ## Install
 
-`yarn add treelabs-ui`
+`yarn add labs-ui-tool`

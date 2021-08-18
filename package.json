@@ -1,7 +1,7 @@
 {
-  "name": "treelabs-ui-tool",
+  "name": "labs-ui-tool",
   "version": "0.1.0",
-  "description": "Set of UI components for TreeLabs projects",
+  "description": "Set of UI components for Labs projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -10,12 +10,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lrmuyi/treelabs-ui.git"
+    "url": "git+https://github.com/lrmuyi/labs-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/lrmuyi/treelabs-ui/issues"
+    "url": "https://github.com/lrmuyi/labs-ui/issues"
   },
-  "homepage": "https://github.com/lrmuyi/treelabs-ui#readme",
+  "homepage": "https://github.com/lrmuyi/labs-ui#readme",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
